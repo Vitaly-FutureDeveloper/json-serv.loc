@@ -1,0 +1,77 @@
+{
+  "project" : {
+    "сode": 200,
+    "parameters": {
+        "actions": ["VIEW_PROJECT", "VIEW_MEMBERS_PROJECT", "VIEW_LINK_PROJECT", "VIEW_SETTING_PROJECT", "CREATE_FILE", "DELETE_PROJECT_TEAM", "INVITE_MEMBER_PROJECT", "REPEAT_INVITE_MEMBER_PROJECT"],
+        "projectId": 13,
+        "projectName": "Spectr(Demo)",
+        "projectDescription": "string",
+        "isFavorite": true,
+        "creatorId": 20,
+        "createAt": "string",
+        "updateAt": "string",
+        "files": [{
+            "id": 20,
+            "avatarUrl": "string",
+            "name": "string"
+        }]
+    }
+  },
+  
+  "projectList" : [
+    {
+      "image": "http://localhost:8081/src/assets/images/Demo.png",
+      "name": "Макеты Демо",
+      "info": "DOT * Только что",
+      "id": 85477580812
+    },
+    {
+      "image": "http://localhost:8081/src/assets/images/Demo.png",
+      "name": "Макеты Демо",
+      "info": "DOT * Только что",
+      "id": 2
+    },
+    {
+      "image": "http://localhost:8081/src/assets/images/Demo.png",
+      "name": "Макеты Демо",
+      "info": "DOT * Только что",
+      "id": 3
+    },
+    {
+      "image": "http://localhost:8081/src/assets/images/Demo.png",
+      "name": "Макеты Демо",
+      "info": "DOT * Только что",
+      "id": 4
+    },
+    {
+      "image": "http://localhost:8081/src/assets/images/Demo.png",
+      "name": "Макеты Демо",
+      "info": "DOT * Только что",
+      "id": 5
+    },
+    {
+      "image": "http://localhost:8081/src/assets/images/Demo.png",
+      "name": "Макеты Демо",
+      "info": "DOT * Только что",
+      "id": 6
+    },
+    {
+      "image": "http://localhost:8081/src/assets/images/Demo.png",
+      "name": "Макеты Демо",
+      "info": "DOT * Давно",
+      "id": 7
+    },
+    {
+      "image": "http://localhost:8081/src/assets/images/Demo.png",
+      "name": "Макеты Демо",
+      "info": "DOT * Очень давно",
+      "id": 8
+    },
+    {
+      "image": "http://localhost:8081/src/assets/images/Demo.png",
+      "name": "Макеты Демо",
+      "info": "DOT * Жесть как давно",
+      "id": 9
+    }
+  ]
+}

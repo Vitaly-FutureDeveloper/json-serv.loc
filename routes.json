@@ -1,0 +1,5 @@
+{
+    "/team/:teamId/project/:projectId" : "/projectList",
+    "/projectList/:projectId" : "/projectList",
+    "/project/:projectId" : "/project"
+}
