@@ -1,5 +1,6 @@
 {
     "/team/:teamId/project/:projectId" : "/projectList",
+    "/team/:teamId/projects/:projectId" : "/project",
     "/projectList/:projectId" : "/projectList",
     "/project/:projectId" : "/project"
 }
